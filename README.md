@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/vyomarc-technologies-it-services-banner.png" alt="VYOMARC Banner" width="30%">
+  <img src="images/vyomarc-technologies-it-services-banner.png" alt="VYOMARC Banner" width="25%">
 </div>
 
 <h1 align="center">VYOMARC Technologies</h1>
@@ -24,13 +24,37 @@
 > **"We don't just write code; we engineer business growth."**
 > In a market saturated with "design studios," **VYOMARC Technologies** stands out as a precision-driven software engineering firm. We don't just build websites; we build **Revenue Generating Digital Assets.**
 
-*  📈 **Real-Market Proven:** Our solutions are battle-tested to perform under high-traffic and complex business demands.
-*  🎢 **Zero-Headache Automation:** We shift the burden of digital maintenance from your shoulders to our expert teams.
-*  🔐 **Security-First Architecture:** We build scalable, impenetrable systems that prioritize your business data.
-*  🛍 **Business-Centric Engineering:** Our code isn't just syntax; it's a strategic tool built to improve your ROI, lead conversion, and operational efficiency.
-- 🏢 **Currently building:** Next-generation automation systems for SMEs, Educational Institutes, and Enterprises.
-- 💡 **Core Philosophy:** Security, Scalability, and Seamless User Experience.
-- 🤝 **Open for:** High-ticket IT consulting, custom software development, and strategic tech partnerships.
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3>📈 Real-Market Proven</h3>
+      <p>Our solutions are battle-tested to perform under high-traffic and complex business demands.</p>
+    </td>
+    <td width="50%">
+      <h3>🎢 Zero-Headache Automation</h3>
+      <p>We shift the burden of digital maintenance from your shoulders to our expert engineering teams.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🔐 Security-First Architecture</h3>
+      <p>We build scalable, impenetrable systems that strictly prioritize and protect your business data.</p>
+    </td>
+    <td width="50%">
+      <h3>🛍️ Business-Centric Engineering</h3>
+      <p>Our code isn't just syntax; it's a strategic tool built to improve your ROI and lead conversion.</p>
+    </td>
+  </tr>
+</table>
+
+## 🚀 Current Focus & Vision
+
+> **🏢 Currently Building:** > Next-generation automation systems and internal tools for SMEs, Educational Institutes, and Enterprises.
+
+> **💡 Core Philosophy:** > Industrial-Grade Security • Infinite Scalability • Seamless User Experience
+
+> [!IMPORTANT]  
+> **🤝 Open For Opportunities:** > We are actively taking on **High-ticket IT consulting**, **Custom software development**, and building **Strategic tech partnerships** across India.
 
 ---
 
@@ -148,13 +172,15 @@ flowchart LR
   Designed SEO-optimized, highly scalable booking platforms for tour operators. Structured multi-page architectures focused on lead generation and high-ticket customer conversion.
 </details>
 
-## 🎯 Target Markets & Solutions
+---
+
+## 🎯 Target Markets & Solutions 
 
 <p align="left">
-  <img src="[https://img.shields.io/badge/EdTech-School_Automation-0052CC?style=for-the-badge](https://img.shields.io/badge/EdTech-School_Automation-0052CC?style=for-the-badge)" alt="Best IT company for school website development" />
-  <img src="[https://img.shields.io/badge/FoodTech-Restaurant_Systems-FF3D00?style=for-the-badge](https://img.shields.io/badge/FoodTech-Restaurant_Systems-FF3D00?style=for-the-badge)" alt="Top web developer for restaurant online ordering" />
-  <img src="[https://img.shields.io/badge/SaaS-Business_Dashboards-00C853?style=for-the-badge](https://img.shields.io/badge/SaaS-Business_Dashboards-00C853?style=for-the-badge)" alt="Custom Micro SaaS and admin dashboard development" />
-  <img src="[https://img.shields.io/badge/Startups-Scalable_MVP-6200EA?style=for-the-badge](https://img.shields.io/badge/Startups-Scalable_MVP-6200EA?style=for-the-badge)" alt="Scalable web development for new startups" />
+  <img src="https://img.shields.io/badge/EdTech-School_Web_Solutions-0052CC?style=for-the-badge" alt="Best IT company for school website development" />
+  <img src="https://img.shields.io/badge/FoodTech-Restaurant_Systems-FF3D00?style=for-the-badge" alt="Top web developer for restaurant online ordering" />
+  <img src="https://img.shields.io/badge/SaaS-Business_Dashboards-00C853?style=for-the-badge" alt="Custom Micro SaaS and admin dashboard development" />
+  <img src="https://img.shields.io/badge/Startups-Scalable_MVP-6200EA?style=for-the-badge" alt="Scalable web development for new startups" />
 </p>
 
 
@@ -162,7 +188,7 @@ flowchart LR
 ## 👨‍💻 About The Founder
 
 <p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" alt="Saurabh - Founder of VYOMARC Technologies" width="150" height="150" style="border-radius: 50%;" />
+  <img src="images/saurabh-founder-vyomarc.jpeg" alt="Saurabh M. Kumar - Founder of VYOMARC Technologies" width="150" height="170" style="border-radius: 50%;" />
 </p>
 
 I am **Saurabh**, the architect behind VYOMARC Technologies. My approach is simple: **Build technology that solves problems, not just software that consumes resources.** With a deep focus on industrial-grade software engineering, I lead a team dedicated to turning complex operational challenges into streamlined, automated digital solutions.
