@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1200x300/0d1117/58A6FF/?text=VYOMARC+TECHNOLOGIES+-+BUILDING+DIGITAL+EMPIRES" alt="VYOMARC Banner" width="100%">
+  <img src="images/vyomarc-technologies-it-services-banner.png" alt="VYOMARC Banner" width="100%">
 </div>
 
 <h1 align="center">VYOMARC Technologies</h1>
