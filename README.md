@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/vyomarc-technologies-it-services-banner.png" alt="VYOMARC Banner" width="20%">
+  <img src="images/vyomarc-technologies-it-services-banner.png" alt="VYOMARC Banner" width="30%">
 </div>
 
 <h1 align="center">VYOMARC Technologies</h1>
